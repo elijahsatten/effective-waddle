@@ -2,7 +2,7 @@
 
 ## Description
 
-Module 6 Challenge Project
+Module 6 Challenge Project:
 A simple tool to look up the weather in different cities.
 
 ## Installation
